@@ -4,3 +4,4 @@ python:alpine3.19
 prom/prometheus:v2.31.1
 flannel/flannel-cni-plugin:v1.2.0
 flannel/flannel:v0.22.2
+kubesphere/ks-installer:v3.4.1
